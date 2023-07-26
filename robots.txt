@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://tjvm0877.github.io/sitemap-index.xml
+Sitemap: https://tjvm0877.github.io/its.blog/sitemap-index.xml
 Host: https://tjvm0877.github.io
